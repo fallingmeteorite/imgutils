@@ -9,4 +9,6 @@ imgutils.utils
 .. toctree::
     :maxdepth: 3
 
+    cache
+    func
     onnxruntime
